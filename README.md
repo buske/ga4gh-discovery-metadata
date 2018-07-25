@@ -7,4 +7,5 @@ The GA4GH Discovery Metadata APIs comprise schemas that define structured metada
 ## Proposals
 
 Please provide references to existing work or proposals here:
+* PhenoPacket metadata schemas: https://github.com/phenopackets/phenopacket-schema/blob/master/src/main/proto/org/phenopackets/schema/v1/core/base.proto (@julesjacobsen)
 * TODO add proposal
